@@ -1,0 +1,9 @@
+D:\Project\ConAppRainbowSchool\ConAppRainbowSchool\bin\Debug\ConAppRainbowSchool.exe.config
+D:\Project\ConAppRainbowSchool\ConAppRainbowSchool\bin\Debug\ConAppRainbowSchool.exe
+D:\Project\ConAppRainbowSchool\ConAppRainbowSchool\bin\Debug\ConAppRainbowSchool.pdb
+D:\Project\ConAppRainbowSchool\ConAppRainbowSchool\obj\Debug\ConAppRainbowSchool.csproj.AssemblyReference.cache
+D:\Project\ConAppRainbowSchool\ConAppRainbowSchool\obj\Debug\ConAppRainbowSchool.csproj.SuggestedBindingRedirects.cache
+D:\Project\ConAppRainbowSchool\ConAppRainbowSchool\obj\Debug\ConAppRainbowSchool.csproj.CoreCompileInputs.cache
+D:\Project\ConAppRainbowSchool\ConAppRainbowSchool\obj\Debug\ConAppRainbowSchool.exe
+D:\Project\ConAppRainbowSchool\ConAppRainbowSchool\obj\Debug\ConAppRainbowSchool.pdb
+D:\Project\ConAppRainbowSchool\ConAppRainbowSchool\bin\Debug\studentgrades.txt

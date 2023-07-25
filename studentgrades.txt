@@ -1,0 +1,24 @@
+﻿Student id : 1
+Name : Ram
+Age : 13
+Grade : B
+Student id : 02
+Name : Aman
+Age : 13
+Grade : B
+Student id : 03
+Name : Nikhil
+Age : 14
+Grade : A+
+Student id : 04
+Name : Ashish
+Age : 14
+Grade : B+
+Student id : 05
+Name : Palak
+Age : 13
+Grade : C+
+Student id : 06
+Name : Apoorva
+Age : 12
+Grade : A
